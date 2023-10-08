@@ -1,0 +1,10 @@
+git init : to innitilaize git in folder
+git clone 'repo url' : to clone any repo
+git branch : to check how many branches in your repo
+git checkout 'branch name' : to switch to that branch
+git checkout -b 'branch name' : to create barnch with that name
+git status : to check status of branch
+git add . : to track file or make file ready for commit
+git commit -m 'write comments here/purpose of push'
+git push origin master/main : master/main yay wo branch hy jahn pr data merge krna hy 
+git pull origin main/master: main/master wo br hy jahn say data lena/ pull krna \
